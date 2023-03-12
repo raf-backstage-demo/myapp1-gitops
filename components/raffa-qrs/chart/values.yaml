@@ -1,4 +1,0 @@
-quarkus-run:
-  fullnameOverride: raffa-qrs
-  image:
-    repository: quay.io/raf-backstage-demo/raffa-qrs
