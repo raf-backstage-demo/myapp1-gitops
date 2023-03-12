@@ -1,0 +1,10 @@
+quarkus-pipeline:
+  fullnameOverride: raffa-qrs6
+  team: demo-team-a
+  repositoryOwner: raf-backstage-demo
+  ownerType: organization
+  repositoryName: raffa-qrs6
+  # https://el-raffa-qrs2-myapp-build.apps.control-cluster-raffa.demo.red-chesterfield.com
+  baseURL: dummy
+
+  #helm upgrade raffa-qrs2 .helm/tekton -i -n myapp-build 
